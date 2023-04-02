@@ -22,7 +22,7 @@ const projects = [
     name: "Haider's Website",
     description: "The website you are looking at right now!",
     image: "/websitephoto.png",
-    github: "https://github.com/Haider-01/Zendesk-Ticket-Handler",
+    github: "https://github.com/Haider-01/Haiders_website",
   },
 ]
 
